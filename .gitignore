@@ -1,0 +1,58 @@
+# Windows 系统生成文件
+Thumbs.db
+ehthumbs.db
+desktop.ini
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Office 临时与锁文件
+~$*
+~*.tmp
+*.tmp
+.~lock.*
+
+# 编辑器 / IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志与备份
+*.log
+logs/
+*.bak
+*.backup
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+out/
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+*.class
+
+# 大体积压缩包与安装程序
+*.zip
+*.rar
+*.7z
+*.exe
+*.msi
+*.iso
+
+# 大体积媒体文件
+*.mp4
+*.mov
+*.avi
+*.psd
+
+# 敏感信息
+.env
+.env.*
+*.pem
+*.key
